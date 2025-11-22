@@ -55,7 +55,7 @@ This project showcases skills in:
 
 ```md
 ![Dashboard Screenshot](social-media-dashboard.png)
-![Dashboard Screenshot](social-media-dashboard 2.png)
+![Dashboard Screenshot](social-media-dashboard2.png)
 ```
 
 ---
