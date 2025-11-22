@@ -15,7 +15,7 @@ Using **Power BI**, the dashboard visualizes how audiences react to content and 
 
 ---
 
-## 🎯 **Objectives**
+**Objectives**
 
 This analysis aims to:
 
@@ -27,14 +27,14 @@ This analysis aims to:
 
 ---
 
-## 🔧 **Tools & Technologies**
+**Tools & Technologies**
 
 * **Power BI** – Data modeling, DAX measures, dashboard development
 * **Excel / CSV** – Dataset structure and preparation
 
 ---
 
-## 📈 **Key Performance Indicators (KPIs)**
+**Key Performance Indicators (KPIs)**
 
 The dashboard tracks four major KPIs:
 
